@@ -1,6 +1,6 @@
 using DeliveryApp1.Models;
 using Microsoft.EntityFrameworkCore;
-
+// 2.4 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
